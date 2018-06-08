@@ -4,7 +4,7 @@ This is a sample book written in Markua.
 
 You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
 
-Here is the download link for a zip file with the manuscript: []().
+Here is the download link for a zip file with the manuscript: [https://github.com/leanpub/sample-leanpub-markua-book/archive/master.zip](https://github.com/leanpub/sample-leanpub-markua-book/archive/master.zip).
 
 You can find the Markus specification here: [https://leanpub.com/markua/read](https://leanpub.com/markua/read).
 
