@@ -1,0 +1,15 @@
+# Chapter 1
+
+This is a sample book written in Markua.
+
+You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
+
+Here is the download link for a zip file with the manuscript: []().
+
+You can find the Markus specification here: [https://leanpub.com/markua/read](https://leanpub.com/markua/read).
+
+We don't have a Markua manual yet but we are working on one!
+
+We also have a author Help Center here: [http://help.leanpub.com/author-help](http://help.leanpub.com/author-help).
+
+In the following chapters you'll see some simple examples of how to format your writing and how to insert images.
